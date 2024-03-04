@@ -40,4 +40,3 @@ for i in stack.items:
 print("Stack")
 for j in stack.items[-1::-1]:
     print(f"{j}")
-git
